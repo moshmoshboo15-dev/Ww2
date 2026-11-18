@@ -1,0 +1,6 @@
+{
+  "name": "Ashfront",
+  "description": "Fast-paced WW1 and WW2 first-person 3D shooter with drivable land, air, and sea vehicles, offline bots, training range, and 40-player LAN multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
